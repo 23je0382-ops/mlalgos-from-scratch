@@ -7,14 +7,6 @@ In this project, I will "re-built from scratch" state-of-the-art algorithms in M
 One thing you need to know that, I make this project **just for learning and understanding algorithms deeply**, not suitable to apply in real-world problems. I still recommend using many other SOTA libraries for building models.
 
 
-## 👤 Contributors
-**I would like to express my sincere thanks to the these wonderful people who have contributed to this library with me:**
-
-- Duong T. (owner)
-- Phuc P. (contributor)
-- Thinh T. (contributor)
-
-
 ## 📝 Libraries
 
 ### A. Classification
